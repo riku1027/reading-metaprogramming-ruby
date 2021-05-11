@@ -1,6 +1,6 @@
 # reading-metaprogramming-ruby
 
-![](https://github.com/kinoppyd/reading-metaprogramming-ruby/workflows/Ruby/badge.svg)
+![](https://github.com/riku1027/reading-metaprogramming-ruby/workflows/Ruby/badge.svg)
 
 ようこそ！　メタプログラミング Ruby 第 2 版の読書会のためのリポジトリです！
 この読書会の目的は、常に(☝ ՞ਊ ՞)☝ のバッジをグリーンに保つことです！
