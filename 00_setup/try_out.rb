@@ -19,10 +19,6 @@ class TryOut
     [@first_name, @middle_name, @last_name].compact.join("\s")
   end
 
-  def first_name=(value)
-    @first_name = value
-  end
-
   def upcase_full_name
     full_name.upcase
   end
